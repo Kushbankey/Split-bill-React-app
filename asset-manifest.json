@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Split-bill-React-app/static/css/main.a4c28843.css",
+    "main.js": "/Split-bill-React-app/static/js/main.c8508755.js",
+    "index.html": "/Split-bill-React-app/index.html",
+    "main.a4c28843.css.map": "/Split-bill-React-app/static/css/main.a4c28843.css.map",
+    "main.c8508755.js.map": "/Split-bill-React-app/static/js/main.c8508755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.c8508755.js"
+  ]
+}
